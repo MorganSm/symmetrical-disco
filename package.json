@@ -2,7 +2,7 @@
     "name": "test-package",
     "displayName": "Test Package",
     "description": "Description!",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2018.3",
     "license": "MIT",
     "dependencies": {
